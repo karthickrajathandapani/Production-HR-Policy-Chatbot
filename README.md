@@ -1,8 +1,5 @@
 # Production HR Policy Chatbot
 
-```markdown
-# Production HR Policy Chatbot
-
 ## Overview
 An enterprise HR chatbot that answers employee questions directly from HR policy documents using Retrieval-Augmented Generation (RAG).
 
@@ -40,5 +37,5 @@ Employees often spend time searching lengthy HR documents for answers. This chat
 
 ## Installation
 
-```bash
+bash
 pip install langchain faiss-cpu pypdf
