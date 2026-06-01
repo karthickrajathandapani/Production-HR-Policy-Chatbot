@@ -1,7 +1,4 @@
-
----
-
-# 2. Production HR Policy Chatbot
+# Production HR Policy Chatbot
 
 ```markdown
 # Production HR Policy Chatbot
